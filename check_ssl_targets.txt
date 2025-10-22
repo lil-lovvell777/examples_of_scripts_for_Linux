@@ -1,0 +1,7 @@
+# прод
+example.com
+api.example.com:8443
+grafana.example.com
+
+# стейдж
+stage.example.net
